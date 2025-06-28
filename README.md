@@ -11,8 +11,8 @@ O site apresenta um catálogo de livros, com uma interface moderna e responsiva,
 - Botão de chamada para inscrição
 - Layout responsivo e visual agradável
 
-## 🖼️ Preview
-![Preview do site](./assets/img/preview.png)
+## 🖼️ Preview - clique na imagem para acessar o site
+[![Preview do site](./assets/img/preview.png)](https://danielmaica.github.io/mundo-dos-livros/)
 
 ## 🚀 Tecnologias Utilizadas
 - HTML5
