@@ -12,7 +12,7 @@ O site apresenta um catálogo de livros, com uma interface moderna e responsiva,
 - Layout responsivo e visual agradável
 
 ## 🖼️ Preview
-![Preview do site](./assets/img/girl_reading.png)
+![Preview do site](./assets/img/preview.png)
 
 ## 🚀 Tecnologias Utilizadas
 - HTML5
