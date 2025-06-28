@@ -43,4 +43,4 @@ Este projeto está sob a licença MIT. Sinta-se à vontade para usar e modificar
 
 ---
 
-Feito com 💙 por [Seu Nome] 
+Feito com 💙 por Daniel Maicá.
